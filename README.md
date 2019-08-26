@@ -13,4 +13,4 @@ Club-Life-Text-Effects.
 
 ### Contact 
 
-Project Link: [https://github.com/Padman83/Club-Life-Text-Effects] (https://github.com/Padman83/Club-Life-Text-Effects)
+Project Link: [https://github.com/Padman83/Club-Life-Text-Effects]
